@@ -1,1 +1,1 @@
-# IFM-Online-Shop
+# Daily-Shop
